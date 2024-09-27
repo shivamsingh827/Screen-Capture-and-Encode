@@ -1,5 +1,6 @@
-#
-screen-recorder-ffmpeg-cpp is a C++-based application that records a desktop screen (X11) using the FFMPEG library, capable of capturing high-quality screen video and encoding it into MPEG-4 and MP4 formats.
+###################
+
+Screen-recorder-ffmpeg-cpp is a C++-based application that records a desktop screen (X11) using the FFMPEG library, capable of capturing high-quality screen video and encoding it into MPEG-4 and MP4 formats.
 
 The application is designed to be modular, efficient, and optimized for performance on Linux systems. By leveraging FFMPEG's powerful encoding tools and libraries such as libavcodec, libavformat, and x11grab, this application offers seamless screen recording with configurable parameters for different use cases.
 
@@ -18,4 +19,4 @@ Usage:
 Before running the application, ensure that libavcodec, libavformat, x11grab, and other dependencies are installed. Check the official FFMPEG installation guide for detailed installation steps.
 Start recording via the terminal, and stop the recording using Ctrl+C
 
-#
+###################
